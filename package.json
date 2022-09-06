@@ -16,6 +16,10 @@
     "rsuite": "^4.10.2",
     "sass": "^1.54.0",
     "timeago-react": "^3.0.5",
+<<<<<<< HEAD
+=======
+    "use-context-selector": "^1.4.1",
+>>>>>>> 6f492d8357c5b0e31621c0cdc61b1064cf61602f
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.3",
     "workbox-broadcast-update": "^6.5.3",
